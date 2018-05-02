@@ -1,3 +1,5 @@
 logs/
-17flowers/
 checkpoints/
+MINST_data/
+17flowers/
+*.pkl.gz
