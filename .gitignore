@@ -1,5 +1,5 @@
 logs/
 checkpoints/
-MINST_data/
+MNIST_data/
 17flowers/
 *.pkl.gz
