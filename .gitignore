@@ -1,5 +1,3 @@
 logs/
 17flowers/
-alexnet.tflearn*
-checkpoint
-model_alexnet*
+checkpoints/
